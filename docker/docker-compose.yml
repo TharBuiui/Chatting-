@@ -12,4 +12,4 @@ app:
     - 5222:5222
 
 mongo:
-  image: mongo:latest
+  image: mongo:5.0.4
